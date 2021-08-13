@@ -1,4 +1,4 @@
 ```
 sudo apt install libjpeg-dev
-g++ main.cpp -lX11 -lpthread -ljpeg
+g++ examples/load_image.cpp -lX11 -lpthread -ljpeg
 ```
